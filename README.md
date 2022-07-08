@@ -13,6 +13,9 @@ Disusun oleh kelompok 3 :
 
 link Hosting :	http://pemrowebimam.infinityfreeapp.com/ di hostinhg oleh Imam surya romadon & M Bagas Juliyanto,
 
+Sebagai mana hasil kerja UAS ini saya disini untuk menginfokan kepada bapak dosen, kontribusi dalam pengerjaan hanya saya dengan imam mohon untuk dibedakan hasil penilaian dari bapak dosen. 
+TerimaKasih banyak pak
+
 (Mohon maaf sebelumnya pak kami Masih mengalami kendala saat drop ke Webhost Segera kami Benarkan di alamat webhost tersebut)
 
 
@@ -36,15 +39,13 @@ sehingga user dapat melakukan operasi CRUD. Dengan menggunakan fugsi mysqli_conn
 
 simpan.php
  
-simpan.php ini berfungsi untuk menyimpan data, terdapat fungsi $input = "INSERT INTO data VALUES(NULL, '$nama_wilayah', '$jumlah_positif', '$jumlah_dirawat', '$jumlah_sembuh', '$jumlah_meninggal', '$nama_operator', '$nim_mahasiswa')";
-dimana fungsi tersebut untuk menyompdat data ke dalam database ditambah dengan fungsi  include('koneksi.php');, yang menghubungkan ke database MySQL.
+simpan.php ini berfungsi untuk menyimpan data, terdapat fungsi $input = "I "INSERT INTO data VALUES(NULL, '$jenis_alokasi', '$jumlah_dana', '$nama_lengkap', '$nohp', '$email')"; dimana fungsi tersebut untuk menyompdat data ke dalam database ditambah dengan fungsi  include('koneksi.php');, yang menghubungkan ke database MySQL.
 
 edit.php
  
-edit.php ini berfungsi untuk mengubah data pasien covid-19 yang sudah diinput dan memperbaharui data yang terdapat didalam database MySQL dengan data yang diinput pada formedit. 
+edit.php ini berfungsi untuk mengubah data penerima Bantuan covid-19 yang sudah diinput dan memperbaharui data yang terdapat didalam database MySQL dengan data yang diinput pada formedit. 
  
-Didalam nya terdapat fungsi php $query = "UPDATE data SET nama_wilayah='$nama_wilayah' , jumlah_positif='$jumlah_positif' , jumlah_dirawat='$jumlah_dirawat' , jumlah_sembuh='$jumlah_sembuh', jumlah_meninggal='$jumlah_meninggal', nama_operator='$nama_operator', nim_mahasiswa='$nim_mahasiswa' WHERE id='$id' ";
-
+Didalam nya terdapat fungsi php $query = "UPDATE data SET jenis_alokasi='$jenis_alokasi' , jumlah_dana='$jumlah_dana' , nama_lengkap='$nama_lengkap' , nohp='$nohp', email='$email' WHERE id='$id' ";
 delete.php
  
 hapus.php berfunsgi untuk menghapus data covid-19 yang terdapat pada tampilan data. Terdapat sintax $query = "DELETE FROM data WHERE id = '$id' "; yang berfungsi untuk mengkoneksikan ke database MySQL bahwa data tersebut dihapus.
