@@ -1,36 +1,18 @@
-# UAS_KELOMPOK_1
+# UAS_KELOMPOK_3
 UAS Mata Kuliah Pemrograman Web 2 
 kelas 06TPLM007
-Disusun oleh kelompok 1 :
-1.	191011401104 - Afrialdo Yasrul Nantunggal,
-2.  191011401069 - Aldi Stiawan
-3.  191011401216 - Aldo Bagus Setiawan
-4.  191011401207 - Agung Pradopo
-5.  181011400815 - Allan Firmansyah
-6.  191011401203 - Ade Abdurahman
+
+Disusun oleh kelompok 3 :
+1. IMAM SURYA ROMADON - 191011401083
+2. M. BAGAS JULIYANTO - 191011401177
+3. Katarina Radu Pala – 191011401102
+4. Khasanatun – 191011401212
+5. Ikang Fauzi - 00000000
+
+Berikut link website Aplikasi : 
 
 
-Berikut link website Aplikasi Data Pasien Covid-19 : http://data.lovestoblog.com/login.php
-
-Username	: admin
-Password	: admin
-
-HALAMAN LOGIN
-![image](https://user-images.githubusercontent.com/103938879/177808794-0892ad11-735f-4998-b197-2d37430903eb.png)
-HALAMAN DASHBOARD
-![image](https://user-images.githubusercontent.com/103938879/177808950-01bdf381-a16e-4e12-b7ff-72aabb40ca13.png)
-HALAMAN TAMBAH DATA
-![image](https://user-images.githubusercontent.com/103938879/177809038-a24104af-7726-42cb-bf71-fb9227a39cdf.png)
-HALAMAN EDIT
-![image](https://user-images.githubusercontent.com/103938879/177809131-c0c90a28-bafb-4f3a-b499-7f85bab98d26.png)
-HALAMAN HAPUS
-![image](https://user-images.githubusercontent.com/103938879/177809227-c45695e0-761f-4149-ac71-9181f7ed0df9.png)
-HALAMAN CETAK
-![image](https://user-images.githubusercontent.com/103938879/177809354-d006951f-89ac-4169-961a-50503d1bbcff.png)
-REPORT
-![image](https://user-images.githubusercontent.com/103938879/177809422-d866211f-207c-4734-8c96-eaa8283fff77.png)
-
-Aplikasi Data Pasien Covid-19 ini untuk menangani data-data pasien covid-19 
+Aplikasi php sederhana untuk menangani pasien covid19 disimpan kedalam database mysql
 Sistem aplikasi ini adalah web base yang dikembangkan dengan menggunakan bahasa pemrograman PHP, HTML,CSS, JavaScript , ditambahkan  Bootstrap dan basis data dengaan MySQL. 
 Aplikasi ini menerapkan operasi operasi CRUD (Create, Read, Update, dan Delete) dengan bahasa PHP dan menyimpan database di MySQL.
 
@@ -81,10 +63,9 @@ Logout.php adalah file yang digunakan untuk proses keluar dari program aplikasi.
 Setelah berhasil melakukan logout, user akan diarahkan kembali ke halaman login.php.
 
 BUKTI PEMBAYARAN
-![image](https://user-images.githubusercontent.com/103938879/177812556-641e80d5-7a59-47a3-8c34-2431f23639ee.png)
-![WhatsApp Image 2022-07-07 at 22 29 54](https://user-images.githubusercontent.com/103938879/177812730-6a76f1d2-097f-4eec-bd0f-f643d21d7fd2.jpeg)
-![WhatsApp Image 2022-07-07 at 22 31 10](https://user-images.githubusercontent.com/103938879/177812870-0476be2a-bee7-4d8e-af9a-f8fdfca2ac1a.jpeg)
-![WhatsApp Image 2022-07-07 at 22 31 15](https://user-images.githubusercontent.com/103938879/177812947-4ed192e2-a367-46f2-ba45-3a9640250574.jpeg)
-![WhatsApp Image 2022-07-07 at 22 31 04 (1)](https://user-images.githubusercontent.com/103938879/177813551-43c141db-4fb7-46a8-b6f8-03037b9e49b6.jpeg)
-![WhatsApp Image 2022-07-07 at 22 32 05](https://user-images.githubusercontent.com/103938879/177813083-b8009e1f-7400-4091-abcd-7bb00689c79e.jpeg)
+![bagas UAS](https://user-images.githubusercontent.com/103942647/177918729-0391f005-4103-4983-9b2e-0658d15adb09.png)
+![imam pembayaran](https://user-images.githubusercontent.com/103942647/177918734-5aa337fc-df72-4541-a394-e75241a75568.png)
+![katun pembayaran](https://user-images.githubusercontent.com/103942647/177918724-13258909-25eb-468d-a97d-6217259c40b2.jpg)
+![karin pembayaran](https://user-images.githubusercontent.com/103942647/177918736-4be47483-f8ec-4113-a079-843b480b5f6b.jpg)
+
 
