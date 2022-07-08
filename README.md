@@ -13,7 +13,7 @@ Disusun oleh kelompok 3 :
 
 link Hosting :	http://pemrowebimam.infinityfreeapp.com/ atau https://imamsurya17.000webhostapp.com/ di hosting oleh Imam surya romadon & M Bagas Juliyanto,
 
-Sebagai mana hasil kerja UAS ini saya disini untuk menginfokan kepada bapak dosen, kontribusi dalam pengerjaan hanya saya dengan imam mohon untuk dibedakan hasil penilaian dari bapak dosen. 
+Sebagai mana hasil kerja UAS ini saya disini untuk menginfokan kepada bapak dosen, kontribusi dalam pengerjaan hanya saya (muhammad bagas juliyanto) dengan (imam surya romadon) mohon untuk dibedakan hasil penilaian dari bapak dosen. 
 TerimaKasih banyak pak
 
 (Mohon maaf sebelumnya pak kami Masih mengalami kendala saat drop ke Webhost Segera kami Benarkan di alamat webhost tersebut)
