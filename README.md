@@ -11,7 +11,7 @@ Disusun oleh kelompok 3 :
 5. Ikang Fauzi - 171011402351
 
 
-link Hosting :	http://pemrowebimam.infinityfreeapp.com/ di hostinhg oleh Imam surya romadon & M Bagas Juliyanto,
+link Hosting :	http://pemrowebimam.infinityfreeapp.com/ atau https://imamsurya17.000webhostapp.com/ di hosting oleh Imam surya romadon & M Bagas Juliyanto,
 
 Sebagai mana hasil kerja UAS ini saya disini untuk menginfokan kepada bapak dosen, kontribusi dalam pengerjaan hanya saya dengan imam mohon untuk dibedakan hasil penilaian dari bapak dosen. 
 TerimaKasih banyak pak
