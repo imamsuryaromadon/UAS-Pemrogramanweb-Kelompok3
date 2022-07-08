@@ -11,13 +11,22 @@ Disusun oleh kelompok 3 :
 5. Ikang Fauzi - 171011402351
 
 
-link Hosting :	http://pemrowebimam.infinityfreeapp.com/ atau https://imamsurya17.000webhostapp.com/ di hosting oleh Imam surya romadon & M Bagas Juliyanto,
+link Hosting :	http://pemrowebimam.infinityfreeapp.com di hosting oleh Imam surya romadon & M Bagas Juliyanto,
+
+Username & Password Login :
+
+   Username : Admin
+   Password : 12345
+   
+   Username : imam
+   Password : 1717
+   
+   Username : bagas
+   Password : 2030
+
 
 Sebagai mana hasil kerja UAS ini saya disini untuk menginfokan kepada bapak dosen, kontribusi dalam pengerjaan hanya saya (muhammad bagas juliyanto) dengan (imam surya romadon) mohon untuk dibedakan hasil penilaian dari bapak dosen. 
 TerimaKasih banyak pak
-
-(Mohon maaf sebelumnya pak kami Masih mengalami kendala saat drop ke Webhost Segera kami Benarkan di alamat webhost tersebut)
-
 
 Aplikasi php sederhana yang disimpan kedalam database mysql
 Sistem aplikasi ini adalah web base yang dikembangkan dengan menggunakan bahasa pemrograman PHP, HTML,CSS, JavaScript , ditambahkan  Bootstrap dan basis data dengaan MySQL. 
