@@ -7,7 +7,7 @@ Disusun oleh kelompok 3 :
 2. M. BAGAS JULIYANTO - 191011401177
 3. Katarina Radu Pala – 191011401102
 4. Khasanatun – 191011401212
-5. Ikang Fauzi - 00000000
+5. Ikang Fauzi - 171011402351
 
 Berikut link website Aplikasi : 
 
