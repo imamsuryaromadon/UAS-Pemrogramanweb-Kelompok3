@@ -9,7 +9,7 @@ Disusun oleh kelompok 3 :
 4. Khasanatun – 191011401212
 5. Ikang Fauzi - 171011402351
 
-Berikut link website Aplikasi : 
+link Hosting : ---------------------- di hostinhg oleh Imam surya romadon & M Bagas Juliyanto,
 
 
 Aplikasi php sederhana untuk menangani pasien covid19 disimpan kedalam database mysql
