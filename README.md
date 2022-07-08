@@ -19,29 +19,21 @@ Aplikasi ini menerapkan operasi operasi CRUD (Create, Read, Update, dan Delete) 
 Berikut fungsi PHP dari setiap fitur Aplikasi Data Data Pasien Covid-19 :
 Index.php
 
-Index.php ini merupakan tampilan halaman website setelah user berhasil login. Pada halamain ini menampilkan data pasien covid-19 dari setiap provinsi di Indonesia, 
-data nya meliputi Nama Wilayah, Jumlah Postif, Jumlah  Dirawat, Jumlah Sembuh, Jumlah Meninggal, dengan keterangan Nama Operator dan Nim Mahasiswa sebagai operator.
-Pada halaman ini juga, kita dapat melakukan entri data pasien, edit data , menghapus data dan mencetak data pasien dari masing-masing provinsi. 
-Serta kolom pencarian untuk memudahkan user mencari data.
+Index.php ini merupakan tampilan halaman website setelah user berhasil login. Pada halamain ini menampilkan Alat Pelindung Diri, Logistik Mahasiswa, Bantuan kuota Mahasiswa, Hand Sanitizer, Sembako masyarakat. Pada halaman ini juga, kita dapat melakukan entri Jumlah dana dalam Rp.
+• Nama Lengkap.
+• No HP.
+• Email.
+• Menampilkan data penerimaan bantuan sosial covid19 yang sudah diinput cetak format pdf.
 
 koneksi.php
 
 koneksi.php berfungsi untuk mengkoneksikan atau mengubungkan form dengan database MySQL, 
 sehingga user dapat melakukan operasi CRUD. Dengan menggunakan fugsi mysqli_connect(), yang didalamnya terdapat komponen host, nama database, username dan password.
 
-tambah.php
-
-tambah.php ini berfungsi untuk menambahkan data jumlah pasien covid-19. Didalam nya terdapat tampilan form data pemantauan covid-19 berupa Nama Wilayah, Jumlah Postif, Jumlah  Dirawat, Jumlah Sembuh, Jumlah Meninggal, dengan keterangan Nama Operator dan Nim Mahasiswa sebagai operator. 
-Dan terdapat  <form method="post" action="simpan.php" > untuk menghubungkan ke fungsi simpan , dengan tujuan menyimpan data yang ingin ditambahkan ke dalam database MySQL.
- 
 simpan.php
  
 simpan.php ini berfungsi untuk menyimpan data, terdapat fungsi $input = "INSERT INTO data VALUES(NULL, '$nama_wilayah', '$jumlah_positif', '$jumlah_dirawat', '$jumlah_sembuh', '$jumlah_meninggal', '$nama_operator', '$nim_mahasiswa')";
 dimana fungsi tersebut untuk menyompdat data ke dalam database ditambah dengan fungsi  include('koneksi.php');, yang menghubungkan ke database MySQL.
-
-editform.php
- 
-editform.php ini berfungsi untuk menampilkan form ubah data, yang bertujuan untuk mengubah data yang sudah diinput  sebelumnya dan memperbaharui data. Terdapat sintax <form method="get" action="edit.php"> yang menghubungkan fungsi ke edit.php
 
 edit.php
  
