@@ -3,20 +3,24 @@ UAS Mata Kuliah Pemrograman Web 2
 kelas 06TPLM007
 
 Disusun oleh kelompok 3 :
+
 1. IMAM SURYA ROMADON - 191011401083
 2. M. BAGAS JULIYANTO - 191011401177
 3. Katarina Radu Pala – 191011401102
 4. Khasanatun – 191011401212
 5. Ikang Fauzi - 171011402351
 
-link Hosting : ---------------------- di hostinhg oleh Imam surya romadon & M Bagas Juliyanto,
+
+link Hosting :	http://pemrowebimam.infinityfreeapp.com/ di hostinhg oleh Imam surya romadon & M Bagas Juliyanto,
+
+(Mohon maaf sebelumnya pak kami Masih mengalami kendala saat drop ke Webhost Segera kami Benarkan di alamat webhost tersebut)
 
 
-Aplikasi php sederhana untuk menangani pasien covid19 disimpan kedalam database mysql
+Aplikasi php sederhana yang disimpan kedalam database mysql
 Sistem aplikasi ini adalah web base yang dikembangkan dengan menggunakan bahasa pemrograman PHP, HTML,CSS, JavaScript , ditambahkan  Bootstrap dan basis data dengaan MySQL. 
 Aplikasi ini menerapkan operasi operasi CRUD (Create, Read, Update, dan Delete) dengan bahasa PHP dan menyimpan database di MySQL.
 
-Berikut fungsi PHP dari setiap fitur Aplikasi Data Data Pasien Covid-19 :
+Berikut fungsi PHP dari setiap fitur Aplikasi Data :
 Index.php
 
 Index.php ini merupakan tampilan halaman website setelah user berhasil login. Pada halamain ini menampilkan Alat Pelindung Diri, Logistik Mahasiswa, Bantuan kuota Mahasiswa, Hand Sanitizer, Sembako masyarakat. Pada halaman ini juga, kita dapat melakukan entri Jumlah dana dalam Rp.
@@ -53,6 +57,20 @@ logout.php
  
 Logout.php adalah file yang digunakan untuk proses keluar dari program aplikasi. Logout ini untuk menjaga keamanan sebuah akun agar tidak digunakan oleh orang lain. Terdapat sintax session_destroy(); yang berfungsi untuk  menghapus semua session data di server. 
 Setelah berhasil melakukan logout, user akan diarahkan kembali ke halaman login.php.
+
+
+INI HASIL DARI OUTPUT KELOMPOK 3 
+![WhatsApp Image 2022-07-08 at 15 50 27](https://user-images.githubusercontent.com/103942647/177962866-638981bf-37f2-4d03-9b4d-09ea40336b7f.jpeg)
+![WhatsApp Image 2022-07-08 at 15 51 21](https://user-images.githubusercontent.com/103942647/177962877-21d79d69-219c-4197-a6e7-15cac5def4a9.jpeg)
+![WhatsApp Image 2022-07-08 at 15 52 20](https://user-images.githubusercontent.com/103942647/177962881-0d29060a-8c57-45c8-8f23-581e6c4f0429.jpeg)
+![WhatsApp Image 2022-07-08 at 15 52 51](https://user-images.githubusercontent.com/103942647/177962885-70ede979-eef9-4818-9c1c-3a1b0522a056.jpeg)
+![WhatsApp Image 2022-07-08 at 15 53 55 (1)](https://user-images.githubusercontent.com/103942647/177962888-c24f33f0-1021-4fb0-9f20-7d1e53a4aa8d.jpeg)
+![WhatsApp Image 2022-07-08 at 15 53 55](https://user-images.githubusercontent.com/103942647/177962892-921a6eb9-7f65-49fd-a454-50046f0627c5.jpeg)
+![WhatsApp Image 2022-07-08 at 15 54 06](https://user-images.githubusercontent.com/103942647/177962897-96e6787e-301f-4a52-9a07-eceed891014d.jpeg)
+![WhatsApp Image 2022-07-08 at 15 56 19](https://user-images.githubusercontent.com/103942647/177962902-33602be8-d395-46ef-8f9c-2d2daac0c794.jpeg)
+![WhatsApp Image 2022-07-08 at 15 57 48](https://user-images.githubusercontent.com/103942647/177962909-520f1c89-9d79-43e0-8cc9-8bd9ce96465a.jpeg)
+
+
 
 BUKTI PEMBAYARAN
 ![bagas UAS](https://user-images.githubusercontent.com/103942647/177918729-0391f005-4103-4983-9b2e-0658d15adb09.png)
